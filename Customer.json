@@ -1,0 +1,183 @@
+{
+  "CustomerData": [{
+      "CustomerID": "C001",
+      "CustomerName": "brijesh kumar",
+      "CustomerLocation": {
+        "City": "Delhi",
+        "State": "Delhi",
+        "Country": "India"
+      }
+    },
+    {
+      "CustomerID": "C002",
+      "CustomerName": "priya patel",
+      "CustomerLocation": {
+        "City": "Mumbai",
+        "State": "Maharashtra",
+        "Country": "India"
+      }
+    },
+    {
+      "CustomerID": "C003",
+      "CustomerName": "amit sharma",
+      "CustomerLocation": {
+        "City": "Bangalore",
+        "State": "Karnataka",
+        "Country": "India"
+      }
+    },
+    {
+      "CustomerID": "C004",
+      "CustomerName": "deepika singh",
+      "CustomerLocation": {
+        "City": "Chennai",
+        "State": "Tamil Nadu",
+        "Country": "India"
+      }
+    },
+    {
+      "CustomerID": "C005",
+      "CustomerName": "rahul verma",
+      "CustomerLocation": {
+        "City": "Kolkata",
+        "State": "West Bengal",
+        "Country": "India"
+      }
+    },
+    {
+      "CustomerID": "C006",
+      "CustomerName": "ananya gupta",
+      "CustomerLocation": {
+        "City": "Hyderabad",
+        "State": "Telangana",
+        "Country": "India"
+      }
+    },
+    {
+      "CustomerID": "C007",
+      "CustomerName": "vikram singhania",
+      "CustomerLocation": {
+        "City": "Jaipur",
+        "State": "Rajasthan",
+        "Country": "India"
+      }
+    },
+    {
+      "CustomerID": "C008",
+      "CustomerName": "neha agarwal",
+      "CustomerLocation": {
+        "City": "Ahmedabad",
+        "State": "Gujarat",
+        "Country": "India"
+      }
+    },
+    {
+      "CustomerID": "C009",
+      "CustomerName": "karan malhotra",
+      "CustomerLocation": {
+        "City": "Lucknow",
+        "State": "Uttar Pradesh",
+        "Country": "India"
+      }
+    },
+    {
+      "CustomerID": "C010",
+      "CustomerName": "sneha choudhary",
+      "CustomerLocation": {
+        "City": "Pune",
+        "State": "Maharashtra",
+        "Country": "India"
+      }
+    },
+    {
+      "CustomerID": "C011",
+      "CustomerName": "ravi mehta",
+      "CustomerLocation": {
+        "City": "Ahmedabad",
+        "State": "Gujarat",
+        "Country": "India"
+      }
+    },
+    {
+      "CustomerID": "C012",
+      "CustomerName": "ayesha kapoor",
+      "CustomerLocation": {
+        "City": "Delhi",
+        "State": "Delhi",
+        "Country": "India"
+      }
+    },
+    {
+      "CustomerID": "C013",
+      "CustomerName": "arjun khanna",
+      "CustomerLocation": {
+        "City": "Mumbai",
+        "State": "Maharashtra",
+        "Country": "India"
+      }
+    },
+    {
+      "CustomerID": "C014",
+      "CustomerName": "manish gupta",
+      "CustomerLocation": {
+        "City": "Bangalore",
+        "State": "Karnataka",
+        "Country": "India"
+      }
+    },
+    {
+      "CustomerID": "C015",
+      "CustomerName": "anjali sharma",
+      "CustomerLocation": {
+        "City": "Chennai",
+        "State": "Tamil Nadu",
+        "Country": "India"
+      }
+    },
+    {
+      "CustomerID": "C016",
+      "CustomerName": "rohit verma",
+      "CustomerLocation": {
+        "City": "Kolkata",
+        "State": "West Bengal",
+        "Country": "India"
+      }
+    },
+    {
+      "CustomerID": "C017",
+      "CustomerName": "pooja banerjee",
+      "CustomerLocation": {
+        "City": "Hyderabad",
+        "State": "Telangana",
+        "Country": "India"
+      }
+    },
+    {
+      "CustomerID": "C018",
+      "CustomerName": "aman kapoor",
+      "CustomerLocation": {
+        "City": "Jaipur",
+        "State": "Rajasthan",
+        "Country": "India"
+      }
+    },
+    {
+      "CustomerID": "C019",
+      "CustomerName": "kirti agnihotri",
+      "CustomerLocation": {
+        "City": "Ahmedabad",
+        "State": "Gujarat",
+        "Country": "India"
+      }
+    },
+    {
+      "CustomerID": "C020",
+      "CustomerName": "siddharth malhotra",
+      "CustomerLocation": {
+        "City": "Lucknow",
+        "State": "Uttar Pradesh",
+        "Country": "India"
+      }
+    }
+  ]
+}
