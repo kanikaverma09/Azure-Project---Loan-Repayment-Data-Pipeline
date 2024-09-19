@@ -1,9 +1,4 @@
-# Azure-Project - Loan Repayment Data Pipeline
 
-
-Here’s a customized README with the project name **Loan Repayment Data Pipeline**:
-
----
 
 # Loan Repayment Data Pipeline
 
