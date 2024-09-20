@@ -35,6 +35,9 @@ The main objectives of this project are:
 
 ## Solution Overview
 
+
+![image](https://github.com/user-attachments/assets/34a2d24c-4ec4-4bea-b564-6680517be9d1)
+
 ### Data Ingestion
 
 - **Source Files**: Three JSON files containing loan, repayment, and customer information:
