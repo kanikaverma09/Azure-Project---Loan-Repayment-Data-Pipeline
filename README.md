@@ -1,14 +1,14 @@
 
 
-# Loan Repayment Data Pipeline
+# Loan Data Insight Hub
 
 ## Introduction
 
-This repository contains a data pipeline solution named **Loan Repayment Data Pipeline**. The project is designed to ingest and transform loan, loan repayment, and customer details data stored in JSON files within Azure Blob Storage. Using Azure Data Factory and Databricks, the pipeline processes this data to produce meaningful insights and stores the transformed results in Delta format for reporting purposes. The pipeline is scheduled to run daily, ensuring up-to-date data is available for business analytics.
+This repository contains a data pipeline solution named **Loan Data Insight Hub**. The project is designed to ingest and transform loan, loan repayment, and customer details data stored in JSON files within Azure Blob Storage. Using Azure Data Factory and Databricks, the pipeline processes this data to produce meaningful insights and stores the transformed results in Delta format for reporting purposes. The pipeline is scheduled to run daily, ensuring up-to-date data is available for business analytics.
 
 ## Business Problem
 
-Financial institutions often need a consolidated view of loan and repayment data to analyze customer behavior, track loan statuses, and maintain accurate financial reporting. Handling multiple data sources, formats, and large datasets can be challenging. Without an efficient pipeline, the risk of data inconsistencies, duplication, and delayed reporting increases, leading to poor decision-making. **Loan Repayment Data Pipeline** solves these problems by providing an automated, reliable pipeline that ensures data quality and timeliness.
+Financial institutions often need a consolidated view of loan and repayment data to analyze customer behavior, track loan statuses, and maintain accurate financial reporting. Handling multiple data sources, formats, and large datasets can be challenging. Without an efficient pipeline, the risk of data inconsistencies, duplication, and delayed reporting increases, leading to poor decision-making. **Loan Data Insight Hub** solves these problems by providing an automated, reliable pipeline that ensures data quality and timeliness.
 
 ## Goal
 
@@ -81,5 +81,5 @@ The main objectives of this project are:
 
 ## Conclusion
 
-The **Loan Repayment Data Pipeline** project is an end-to-end data solution that addresses the challenges of managing loan and repayment data. By automating the data ingestion and transformation process, ensuring data quality, and implementing robust error handling and notifications, the pipeline provides accurate and up-to-date data for business reporting. The use of Delta format and upsert logic ensures data consistency and efficient storage management.
+The **Loan Data Insight Hub** project is an end-to-end data solution that addresses the challenges of managing loan and repayment data. By automating the data ingestion and transformation process, ensuring data quality, and implementing robust error handling and notifications, the pipeline provides accurate and up-to-date data for business reporting. The use of Delta format and upsert logic ensures data consistency and efficient storage management.
 
